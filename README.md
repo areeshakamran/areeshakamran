@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on [gmm yachting](https://gmm-yachting.com/)
 
-- 👨‍💻 All of my projects are available at [[daafafhttps://github.com/areeshakamran](https://github.com/areeshakamran)
+- 👨‍💻 All of my projects are available at [[https://github.com/areeshakamran](https://github.com/areeshakamran)
 
 - 📝 I regularly write articles on [cplusoft](cplusoft)
 
